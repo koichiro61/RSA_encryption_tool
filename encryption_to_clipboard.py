@@ -1,3 +1,5 @@
+# Note that I shall not be responsible for any loss, damages and troubles caused by any software published here.
+
 # many thanks to https://magazine.techacademy.jp/magazine/34155
 
 from Crypto.PublicKey import RSA
