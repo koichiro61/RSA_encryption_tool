@@ -1,4 +1,7 @@
 '''
+
+Note that I shall not be responsible for any loss, damages and troubles caused by any software published here.
+
 pythonista3 用
 選択した暗号文字列を複合するスクリプト
 
