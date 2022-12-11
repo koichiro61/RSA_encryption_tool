@@ -8,6 +8,7 @@ import appex
 import clipboard
 import base64
 import dialogs
+import sys
 
 def abort(abort_message='script aborted'):
 	clipboard.set(abort_message)
